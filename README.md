@@ -1,4 +1,4 @@
-### Hi there, I'm Palash Ahmed - palahsu👋
+### Hi there, I'm officialrajabhaiya - Raja👋
 
 ## Developer & Cyber Expert!
 
@@ -10,18 +10,18 @@
 
 ### Connect with me:
 
-[<img align="left" alt="palahsu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Raja__| YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="palahsu | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="palahsu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="palahsu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="palahsu | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="raja__| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="raja__| Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
 <br />
 
 
-<img src = "https://github-readme-stats.vercel.app/api?username=palahsu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=palahsu&langs_count=8&theme=blue-green">
+<img src = "https://github-readme-stats.vercel.app/api?username=raja__&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=raja__&langs_count=8&theme=blue-green">
 
 ## :sparkling_heart: Support the project
 
@@ -30,7 +30,7 @@ You can use any tools for free and for any development or making projects just c
 
 ## For Contact
 
-[<img align="left" alt="palahsu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="Raja__| YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 
 Thanks! :heart:
